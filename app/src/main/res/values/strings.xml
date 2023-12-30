@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora Server</string>
+    <string name="num_1">Número 1</string>
+    <string name="num_2">Número 2</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="operaciones">Operaciones</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="enviar_datos">Enviar datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="logo_info">LOGO</string>
+    <string name="conexion_con_el_servidor">Conexión con el servidor:</string>
+    <string name="estado_desconocido">Desconocido</string>
+    <string name="estado_conectado">Conectado</string>
+    <string name="estado_no_internet">Sin conexión a Internet</string>
+    <string name="resultado2">Resultado:</string>
+    <string name="advertencia">Advertencia</string>
+    <string name="error">ERROR</string>
+    <string name="error_servidor">Error del servidor</string>
+</resources>
